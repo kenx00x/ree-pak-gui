@@ -1,6 +1,6 @@
 # REE Pak Tool (GUI Application)
 
-## Donwload
+## Download
 
 https://github.com/eigeen/ree-pak-gui/releases
 
